@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_two);
+        setContentView(R.layout.activity_main);
 //        ConstraintLayout constraintLayout = new ConstraintLayout((this));
 //        TextView textView = new TextView(this);
 //        textView.setText("Hello World");
