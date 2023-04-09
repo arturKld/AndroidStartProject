@@ -17,11 +17,9 @@ public class MainActivity extends AppCompatActivity {
 //        TextView textView = new TextView(this);
 //        textView.setText("Hello World");
 //        textView.setTextSize(22sp);
-
 //        ConstraintLayout.LayoutParams layoutParams = new ConstraintLayout.LayoutParams(
 //                ConstraintLayout.LayoutParams.WRAP_CONTENT,
 //                ConstraintLayout.LayoutParams.WRAP_CONTENT);
-//
 //        layoutParams.leftToLeft = ConstraintLayout.LayoutParams.PARENT_ID;
 //        layoutParams.topToTop = ConstraintLayout.LayoutParams.PARENT_ID;
 //        layoutParams.rightToRight = ConstraintLayout.LayoutParams.PARENT_ID;
